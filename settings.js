@@ -7,11 +7,11 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281575886399']
-global.premium = ['6281575886399']
+global.owner = ['6281234352841']
+global.premium = ['6281234352841']
 global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
-global.botname ='Hinata-Md'
+global.ownername = 'SlowD'
+global.botname ='Sadang Jaya'
 global.donasi = {
     saweria: 'https://saweria.co/riy20',
     nomor: '081575886399'
